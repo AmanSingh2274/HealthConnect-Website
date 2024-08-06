@@ -1,7 +1,7 @@
 
 ## To Run Locally
 
-Clone the project
+Clone the project 
  
 ```bash
   git clone https://github.com/amansingh2274/Hospital-Management-System.git
