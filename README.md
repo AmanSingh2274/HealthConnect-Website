@@ -35,22 +35,19 @@ Hospital management system is a website which can control all the management rel
 
 **Client:** 
 
-- **React**
-- **Redux Thunk**
-- **Axios**
-- **Ant-Designs**
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
+- **BOOTSTRAP**
 
 **Server:**
 
 - **Node Js**
-- **Mongo DB**
-- **Express Js**
-- **JWT**
-- **Nodemailer**
+- **MYSQL**
 
 ## Deployment
 
-- **Client**  (Netlify)
+- **Client**  (Versal)
 - **Server** - (Cyclic)
 
 ## Credentials
@@ -67,14 +64,6 @@ Password - masai
 - Creating appointments
 - Generating reports 
 - Overall control of hospital
-
-## 🔗 Links
-
-Dashboard - https://hm-system.netlify.app/
-
-User Side - https://hms-user-side.netlify.app/
-
-Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ## Screenshots
 
@@ -106,6 +95,3 @@ Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ![31 01 2023_21 15 44_REC](https://user-images.githubusercontent.com/100460788/215808752-4ebfb582-1db0-45e4-ac53-a87a5f1b75ea.png)
 
-## Presentation
-
-Link - <a href="https://drive.google.com/file/d/1xwcSsjdl6QHnJ-JXl11moBAwSqSQFRjh/view?usp=sharing" alt="presentation">Drive</a>
